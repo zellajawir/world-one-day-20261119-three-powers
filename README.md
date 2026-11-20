@@ -1,5 +1,9 @@
 # The World / One Day — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/zellajawir/world-one-day-20261119-three-powers/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/zellajawir/world-one-day-20261119-three-powers/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 An original, illustrated front page with eight English-language stories. The summit leads; four other major developments and three briefs round out the page. The custom illustration emphasizes the shared table and declaration, not an end to the wars. The smaller drawings show a verdict, a trading debut, deleted draft language, a shipping bottleneck, a one-day signal, an evacuation and a console launch.
 
 ## Run
